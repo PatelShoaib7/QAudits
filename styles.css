@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cm-bg-dark {
+    background: #15306F 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.nav-item > .nav-link , .cm-text-dark{
+    font: normal normal normal 16px/23px Jost;
+    letter-spacing: 1px;
+    color: #FFFFFF !important;
+    opacity: 1;
+}
+
+.proc {
+    padding-bottom: 0rem!important;
+    background-image: url(/assets/Group\ 42280.png);
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 40px 40px 0px 40px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
