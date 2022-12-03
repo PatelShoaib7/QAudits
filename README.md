@@ -6,4 +6,4 @@
   <li> JavaScript</li>
   <li>BootStarp</li>
   </ol>
-  <h1>Features And Functainalities</h1>
+  <h1>Features And Functionalities</h1>
